@@ -20,7 +20,8 @@ import sys
 import logging
 
 xdg_config = os.environ.get('XDG_CONFIG_HOME')
-CONFIG_PATH = os.path.join(xdg_config, "jrnl") if xdg_config else os.path.expanduser('~/.jrnl_config')
+JRNLRC = os.environ.get('JRNLRC')
+CONFIG_PATH = JRNLRC if JRNLRC else os.path.join(xdg_config, "jrnl") if xdg_config else os.path.expanduser('~/.jrnl_config')
 PYCRYPTO = install.module_exists("Crypto")
 log = logging.getLogger(__name__)
 
