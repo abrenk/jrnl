@@ -15,6 +15,7 @@
 
 **Build:**
 
+- Modernize pyproject [\#2046](https://github.com/jrnl-org/jrnl/pull/2046) ([micahellison](https://github.com/micahellison))
 - Remove release step to publish to Homebrew [\#1994](https://github.com/jrnl-org/jrnl/pull/1994) ([micahellison](https://github.com/micahellison))
 
 **Packaging:**
