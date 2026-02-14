@@ -1,5 +1,17 @@
 # Changelog
 
+## [Unreleased](https://github.com/jrnl-org/jrnl/)
+
+[Full Changelog](https://github.com/jrnl-org/jrnl/compare/v4.3-beta...HEAD)
+
+**Fixed bugs:**
+
+- Doc missing: Setting location of journal [\#2019](https://github.com/jrnl-org/jrnl/issues/2019)
+
+**Documentation:**
+
+- Add example of how to configure location of a journal [\#2020](https://github.com/jrnl-org/jrnl/pull/2020) ([matthiasbeyer](https://github.com/matthiasbeyer))
+
 ## [v4.3-beta](https://pypi.org/project/jrnl/v4.3-beta/) (2026-02-14)
 
 [Full Changelog](https://github.com/jrnl-org/jrnl/compare/v4.2.1...v4.3-beta)
