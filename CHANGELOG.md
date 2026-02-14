@@ -21,10 +21,12 @@
 
 **Packaging:**
 
+- Feature Report: Drop test dependency on PyPI `toml` package [\#2027](https://github.com/jrnl-org/jrnl/issues/2027)
 - Update actions/checkout action to v6 [\#2053](https://github.com/jrnl-org/jrnl/pull/2053) ([renovate[bot]](https://github.com/apps/renovate))
 - Update actions/cache action to v5 [\#2052](https://github.com/jrnl-org/jrnl/pull/2052) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency rich to \>=14.3.2,\<14.4.0 [\#2051](https://github.com/jrnl-org/jrnl/pull/2051) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency python to 3.14 [\#2050](https://github.com/jrnl-org/jrnl/pull/2050) ([renovate[bot]](https://github.com/apps/renovate))
+- Update actions/setup-python action to v6 [\#2031](https://github.com/jrnl-org/jrnl/pull/2031) ([renovate[bot]](https://github.com/apps/renovate))
 - Add support for Python 3.14 [\#2015](https://github.com/jrnl-org/jrnl/pull/2015) ([micahellison](https://github.com/micahellison))
 - Update dependency pa11y-ci to v4 [\#2014](https://github.com/jrnl-org/jrnl/pull/2014) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency rich to \>=14.1.0, \<14.2.0 [\#2013](https://github.com/jrnl-org/jrnl/pull/2013) ([renovate[bot]](https://github.com/apps/renovate))
