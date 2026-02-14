@@ -7,6 +7,7 @@
 **Implemented enhancements:**
 
 - Feature Report: Inject a unique identifier \(per journal\) next to the title of an entry [\#2043](https://github.com/jrnl-org/jrnl/issues/2043)
+- Add Python 3.14 support [\#1997](https://github.com/jrnl-org/jrnl/issues/1997)
 
 **Fixed bugs:**
 
