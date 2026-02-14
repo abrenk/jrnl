@@ -21,6 +21,7 @@
 
 **Packaging:**
 
+- Update dependency python to 3.14 [\#2050](https://github.com/jrnl-org/jrnl/pull/2050) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency pa11y-ci to v4 [\#2014](https://github.com/jrnl-org/jrnl/pull/2014) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency rich to \>=14.1.0, \<14.2.0 [\#2013](https://github.com/jrnl-org/jrnl/pull/2013) ([renovate[bot]](https://github.com/apps/renovate))
 - Update dependency requests to v2.32.4 [\#2010](https://github.com/jrnl-org/jrnl/pull/2010) ([renovate[bot]](https://github.com/apps/renovate))
